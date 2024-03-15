@@ -4,8 +4,6 @@ Este código fuente sirve como apoyo para el video de exportación de modelos de
 
 Se trata de un clasificador de números escritos, en donde puedes dibujar en el explorador un número del 0 al 9, y al dar clic en predecir intentará decir qué número es, utilizando Tensorflow.js, en base aun modelo entrenado en Python con Tensorflow
 
-## Probar en vivo
-Puedes probar este proyecto en vivo [aquí](https://ringa-tech.com/exportacion/numeros/)
 
 ## Cómo utilizarlo
 
